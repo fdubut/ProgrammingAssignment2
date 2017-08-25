@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions used to create a special object that
+## stores a matrix and cache its mean
 
 ## Creates a special "matrix"
 
